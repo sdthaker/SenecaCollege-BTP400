@@ -1,4 +1,4 @@
-# Full Stack Bank Mimic API
+# Full Stack Bank Application
 
 ### Developed with Spring Boot, PostgreSQL, & ReactJS
 
@@ -14,6 +14,6 @@ The frontend was developed using node.js and ReactJS which communicates with the
 - Spring Boot 2.6.6
 
 ### Developed By:
-1. [Omar Hussein](https://github.com/omalk98)
-2. [Soham Thaker](https://github.com/sdthaker)
+1. [Soham Thaker](https://github.com/sdthaker)
+2. [Omar Hussein](https://github.com/omalk98)
 3. [Philippe Cormier](https://github.com/BigBrainWorld)
