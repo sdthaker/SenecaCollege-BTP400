@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="front+back end" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5dff39bc-d7c9-446e-91e5-064174c379d9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/btp400/assignment1/backend/Student.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/resources/librarian/library.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/resources/student/studentUnitTestData.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/tests/btp400/assignment1/backend/StudentTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/btp400/assignment1/frontend/StudentLogin.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/btp400/assignment1/frontend/StudentOptions.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/btp400/assignment1/frontend/LoginAndRegister.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="backend" pattern="file[Project Files]:src/main/java/btp400/assignment1/backend/*||ext[Maven: com.googlecode.json-simple:json-simple:1.1.1]:*" />
+    <scope name="frontend" pattern="file[Project Files]:src/main/java/btp400/assignment1/frontend/*||ext[Maven: com.googlecode.json-simple:json-simple:1.1.1]:*" />
+    <scope name="front+back end" pattern="file[Project Files]:src/main/java/btp400/assignment1/backend/*||file[Project Files]:src/main/java/btp400/assignment1/frontend/*" />
+  </component>
+  <component name="ProjectId" id="25ylnOs78nW69pZJdTdE3wrLVtv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.22125" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thake\Desktop\Sem 4\BTP 400\LibraryFX\Project Files\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.LibraryFX [clean,package,javafx:run]">
+    <configuration name="AdminTest$RegisterLibrarianTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project Files" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="btp400.assignment1.backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="btp400.assignment1.backend.AdminTest" />
+      <option name="MAIN_CLASS_NAME" value="btp400.assignment1.backend.AdminTest$RegisterLibrarianTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminTest$adminLoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project Files" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="btp400.assignment1.backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="btp400.assignment1.backend.AdminTest" />
+      <option name="MAIN_CLASS_NAME" value="btp400.assignment1.backend.AdminTest$adminLoginTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibrarianTest$LibrarianLoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LibraryFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="btp400.assignment1.backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="btp400.assignment1.backend.LibrarianTest" />
+      <option name="MAIN_CLASS_NAME" value="btp400.assignment1.backend.LibrarianTest$LibrarianLoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryFX [clean,package,javafx:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+                <option value="javafx:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.LibrarianTest$LibrarianLoginTest" />
+      <item itemvalue="JUnit.AdminTest$adminLoginTest" />
+      <item itemvalue="JUnit.AdminTest$RegisterLibrarianTest" />
+      <item itemvalue="Maven.LibraryFX [clean,package,javafx:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AdminTest$RegisterLibrarianTest" />
+        <item itemvalue="JUnit.AdminTest$adminLoginTest" />
+        <item itemvalue="JUnit.LibrarianTest$LibrarianLoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dff39bc-d7c9-446e-91e5-064174c379d9" name="Changes" comment="" />
+      <created>1646507389034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646507389034</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LibraryFX$StudentTest_StudentViewBorrowedItemsTest_student_With_Sid_Exists_But_Didnt_Borrow_Any_Books.ic" NAME="StudentTest$StudentViewBorrowedItemsTest.student_With_Sid_Exists_But_Didnt_Borrow_Any_Books Coverage Results" MODIFIED="1645994736544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>btp400.assignment1.backend.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LibraryFX$Backend.ic" NAME="Backend Coverage Results" MODIFIED="1646166912345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

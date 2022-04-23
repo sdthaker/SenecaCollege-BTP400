@@ -1,0 +1,32 @@
+[
+    {
+        "password": "boxn1",
+        "name": "Nick Nurse",
+        "id": 100,
+        "email": "nn@raptors.ca"
+    },
+    {
+        "password": "imbatman",
+        "name": "Bruce Wayne",
+        "id": 102,
+        "email": "bruce@wayne.com"
+    },
+    {
+        "password": "johnjohn",
+        "name": "john john",
+        "id": 106,
+        "email": "jj@john.ca"
+    },
+    {
+        "password": "pikachu",
+        "name": "Ash Ketchum",
+        "id": 107,
+        "email": "ak@poke.com"
+    },
+    {
+        "password": "123",
+        "name": "Sam Tucker",
+        "id": 108,
+        "email": "Sam@email.com"
+    }
+]

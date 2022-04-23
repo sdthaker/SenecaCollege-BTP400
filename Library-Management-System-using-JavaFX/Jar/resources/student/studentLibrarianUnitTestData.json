@@ -1,0 +1,48 @@
+{
+  "book": [
+    {
+      "pages": 1,
+      "waitingList": [
+        345432543,
+        234243563
+      ],
+      "author": "Claudio Esposito",
+      "borrowedBy": [
+        123456789,
+        12345678,
+        123456,
+        12345,
+        1234,
+        1234567,
+        122432434,
+        234345354
+      ],
+      "name": "Test",
+      "ID": 123456,
+      "stock": 0
+    },
+    {
+      "pages": 12,
+      "waitingList": [],
+      "author": "test",
+      "borrowedBy": [
+        345432543,
+        123456745
+      ],
+      "name": "demo",
+      "ID": 1234567,
+      "stock": 0
+    },
+    {
+      "pages": 12,
+      "waitingList": [],
+      "author": "test",
+      "borrowedBy": [
+        234243563
+      ],
+      "name": "demo",
+      "ID": 123,
+      "stock": 8
+    }
+  ]
+}

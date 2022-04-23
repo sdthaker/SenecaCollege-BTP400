@@ -1,0 +1,17 @@
+Admin Class Assumptions
+
+	There is no register admin functionality since admins are the highest level of this library system. 
+	Admins are added manually to the admins.json file for this reason.
+
+	A librarian can only be registered by using a unique email. 
+
+	Reports are updated every time an admin views the list of librarians. Previous librarian list reports are not saved. The librarian report doesnt show the librarians password.
+	 
+	TextFields in any form cannot be left blank.
+	
+	Only one admin can be logged in at a time.
+	
+	There can be an unlimited number of librarians in the system.
+	
+	There can be no librarians in the system.
+	

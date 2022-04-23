@@ -1,0 +1,77 @@
+{
+  "book": [
+    {
+      "pages": 1,
+      "waitingList": [],
+      "author": "Claudio Esposito",
+      "borrowedBy": [
+        123456789,
+        12345678,
+        123456,
+        12345,
+        1234,
+        1234567
+      ],
+      "name": "Test",
+      "ID": 123456,
+      "stock": 2
+    },
+    {
+      "pages": 12,
+      "waitingList": [],
+      "author": "test",
+      "borrowedBy": [],
+      "name": "demo",
+      "ID": 1234567,
+      "stock": 10
+    },
+    {
+      "pages": 1000,
+      "waitingList": [],
+      "author": "NEW",
+      "borrowedBy": [],
+      "name": "NEW",
+      "ID": 12345567,
+      "stock": 500
+    },
+    {
+      "pages": 123,
+      "waitingList": [],
+      "author": "OLD",
+      "borrowedBy": [],
+      "name": "OLD",
+      "ID": 1111111111111111,
+      "stock": 123
+    }
+  ],
+  "magazine": [
+    {
+      "pages": 1,
+      "waitingList": [
+        "123456789"
+      ],
+      "author": "Claudio Esposito",
+      "borrowedBy": [
+        "123456789"
+      ],
+      "name": "Claudio",
+      "ID": "693694735-2",
+      "stock": 9
+    }
+  ],
+  "video": [
+    {
+      "duration": "2:13 (HH:MM)",
+      "waitingList": [
+        "123456789"
+      ],
+      "director": "Claudio Esposito",
+      "borrowedBy": [
+        "123456789"
+      ],
+      "link": "https:\/\/example.com",
+      "ID": "123456789",
+      "title": "Claudio"
+    }
+  ]
+}

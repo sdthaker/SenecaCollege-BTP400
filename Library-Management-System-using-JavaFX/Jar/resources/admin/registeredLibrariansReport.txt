@@ -1,0 +1,20 @@
+Employee Id: 100
+Name: Nick Nurse
+Email: nn@raptors.ca
+
+Employee Id: 102
+Name: Bruce Wayne
+Email: bruce@wayne.com
+
+Employee Id: 106
+Name: john john
+Email: jj@john.ca
+
+Employee Id: 107
+Name: Ash Ketchum
+Email: ak@poke.com
+
+Employee Id: 108
+Name: Sam Tucker
+Email: Sam@email.com
+

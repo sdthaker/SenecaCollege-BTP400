@@ -1,0 +1,71 @@
+How to Run and Test Admin Module
+
+Navigating the Admin Module:
+	Select the Admin radio button option to redirect to a sign in page, which prompts the user for a username and password.
+	Valid admin login data can be found in the resources/admins.json file. 
+	A successful login will redirect the user to a welcome admin page which displays three options that the user can select.
+	
+	Register Librarian:
+		If the Register Librarian option is selected, the user will be prompted to fill a form with the librarian's information.
+		All fields must have a valid value, otherwise an error message will display, with a prompt of valid inputs when the 
+		register button is pressed. The email value must be unique; multiple librarians cannot share the same email.
+		If the librarian is successfully registered, a success message will display. The user now has the option to go back or
+		to register another librarian.
+	
+	Delete Librarian:
+		If the Delete Librarian option is selected, the user will be prompted to fill a form with the librarian's employee id.
+		This field cannot be empty, otherwise an error message will display when the delete button is pressed.
+		If the entered employee id does not exist in the system, an error message will display. If the librarian is found in 
+		the system, a success message will display that the librarian is deleted from the system. The user now has the option 
+		to go back or to delete another librarian.
+	
+	View Librarians:
+		If the View Librarians option is selected, the system will display a list of currently registered librarians in the 
+		system with all their information except their passwords. A report of the currently registered librarians can be 
+		found in the resources/registeredLibrariansReport.txt file. A go back button at the bottom of the screen allows the 
+		user to return to the options menu for admin.
+
+Testing the Admin Module:
+	There are four testing classes in the AdminTest.java file. One for each important functionality of the Admin class.
+	
+	adminLoginTest:
+		Run this test to try the login functionality for an admin. This class contains two tests.
+		
+		testAdminLoginSuccess:
+			This test checks for a successful login.
+		
+		testAdminLoginFail:
+			This test checks for a failed login.
+	
+	RegisterLibrarianTest:
+		Run this test to try the registerLibrarian method of the Admin class. This class contains five tests.
+		
+		testFnameError:
+			This test checks for Fname input error message.
+		
+		testLnameError:
+			This test checks for Lname input error message.
+		
+		testEmailError:
+			This test checks for email format input error message.
+		
+		testEmailExists:
+			This test checks for an existing email error message.
+		
+		testRegisterSuccess:
+			This test checks for a successful librarian registration.
+	
+	DeleteLibrarianTest:
+		Run this test to try the deleteLibrarian method of the Admin class. This class contains two tests.
+		
+		testDeleteFail:
+			This test checks for a failed to delete librarian message.
+		
+		testDeleteSuccess:
+			This test checks for a success message.
+		
+	ViewLibrariansTest:
+		Run this test to try the viewLibrarians method of the Admin class. This class contains one test.
+		
+		testViewLibrarianSuccess:
+			This test checks the JSONArray return value.

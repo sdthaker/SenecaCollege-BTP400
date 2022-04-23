@@ -1,0 +1,2 @@
+Mar. 02, 2022 8:56:50 P.M. btp400.assignment1.backend.Student readDataFromFile
+SEVERE: IOException happened on the file while reading data from "studen.json" file
