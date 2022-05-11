@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"sdds.lab2.task1","l":"Account"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"sdds.lab2.task1","l":"FileMatch"},{"p":"sdds.lab2.task1","l":"Task1Tester"},{"p":"sdds.lab2.task1","l":"TransactionRecord"}];updateSearchResults();
