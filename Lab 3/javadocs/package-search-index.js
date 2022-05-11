@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"btp400.lab3.task1"},{"l":"btp400.lab3.task2"},{"l":"btp400.lab3.task3"}];updateSearchResults();
