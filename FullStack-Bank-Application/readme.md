@@ -4,7 +4,7 @@
 
 This application was developed using the 3 tier system. Frontend, Backend, and Database.
 The database of choice is postgres for the robustness and ability to create relational data.
-The backend was developed using the Java EE sdk with the Spring Boot framework to wrap our restAPI.
+The backend was developed using the Java EE sdk with the Spring Boot framework to wrap our REST API.
 The frontend was developed using node.js and ReactJS which communicates with the backend, which in turn communicates with the database.
 
 ### Technologies used
